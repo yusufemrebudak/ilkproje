@@ -12,5 +12,12 @@ public class ThirtService {
     public void b(){
         System.out.println(a);
     }
+    public void c(){
+        System.out.println(a);
+    }
+
+    public void d(){
+        System.out.println(a);
+    }
 }
 
