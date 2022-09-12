@@ -12,6 +12,14 @@ public class ThirtService {
     public void b(){
         System.out.println(a);
     }
+
+     public void z(){
+        System.out.println(a);
+    }
+
+    public void z2(){
+        System.out.println(a);
+    }
     public void c(){
         System.out.println(a);
     }
