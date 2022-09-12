@@ -5,5 +5,5 @@ public class SecondService {
     String b = "first commit eklendi";
     String c = "asd";
     String d = "String d";
-    String d = "String d from remote";
+    String m = "String d from remote";
  }
