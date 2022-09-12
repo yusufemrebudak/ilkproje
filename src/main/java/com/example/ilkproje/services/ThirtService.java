@@ -19,12 +19,6 @@ public class ThirtService {
     public void d(){
         System.out.println(a);
     }
-    public void z(){
-        System.out.println(a);
-    }
 
-    public void z2(){
-        System.out.println(a);
-    }
 }
 
