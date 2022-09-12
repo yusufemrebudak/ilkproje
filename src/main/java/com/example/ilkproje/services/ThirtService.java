@@ -5,8 +5,11 @@ public class ThirtService {
 
     String b = "string from thirt service and remote ";
     String c = "string b from thirt service and local branch";
-    
     public void a(){
+        System.out.println(a);
+    }
+
+    public void b(){
         System.out.println(a);
     }
 }
